@@ -5,7 +5,7 @@
 'DIS.exe' (CLR v4.0.30319: DIS.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'DIS.exe' (CLR v4.0.30319: DIS.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 5, 7, 11, 13, 17, 19, 23, 
-16.5333333333333
+16.533
 10101
 15
     *    
@@ -17,4 +17,4 @@ Number          Frequency
 1          2
 2          4
 3          2
-The program '[4824] DIS.exe' has exited with code 0 (0x0).
+The program '[6204] DIS.exe' has exited with code 0 (0x0).

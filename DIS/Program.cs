@@ -177,8 +177,9 @@ namespace DIS
                         }
                         i++;
                     }
+                    result = Math.Round(result, 3);
                     Debug.WriteLine(result);
-                    return Math.Round(result, 3);
+                    return result;
                 }
             }
             catch
